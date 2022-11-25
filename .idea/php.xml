@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/start/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/start/vendor/behat/transliterator" />
+      <path value="$PROJECT_DIR$/start/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/start/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/start/vendor/composer" />
+      <path value="$PROJECT_DIR$/start/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/start/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/start/vendor/stof/doctrine-extensions-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/start/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/start/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/start/vendor/nexylan/slack-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/nexylan/slack" />
+      <path value="$PROJECT_DIR$/start/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/start/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/start/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/start/vendor/gedmo/doctrine-extensions" />
+      <path value="$PROJECT_DIR$/start/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/start/vendor/knplabs/knp-components" />
+      <path value="$PROJECT_DIR$/start/vendor/knplabs/knp-time-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/knplabs/knp-markdown-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/knplabs/knp-paginator-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/client-common" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/logger-plugin" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/httplug-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/message" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/stopwatch-plugin" />
+      <path value="$PROJECT_DIR$/start/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/start/vendor/clue/stream-filter" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/start/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/start/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/start/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/start/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/start/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/start/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/start/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/start/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/start/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/start/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/start/vendor/phpdocumentor/reflection-docblock" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/start/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
